@@ -1,7 +1,10 @@
 # THE-MAZE-IS-WATCHING-YOUR-KEYBOARD
 
-A Python maze game built with Pygame. The player chooses a custom letter and difficulty mode, then navigates a maze shaped like that letter to reach the exit. Built with the help of AI.
+What if any letter could become a playable maze?
 
+Introducing LETTER MAZE, an interactive maze game developed using Python and Pygame. Simply choose a letter, watch it transform into a maze, and challenge yourself to find the way out.
+
+The game combines creative design, problem-solving, and programming to turn simple letters into an engaging gaming experience.
 
 ## Features
 
